@@ -6,3 +6,26 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+
+
+ /*-------------general styling------------*/
+
+ body {
+     background-color: rgb(171, 185, 105);
+ }
+
+ header {
+     background-color: rgb(124, 133, 74);
+ }
+
+ footer {
+    background-color: #626643;
+    color: #0e0d0d;
+    width: 100%;
+    padding: 20px;
+ }
+
+ .section {
+     margin-bottom: 60px;
+     padding: 30px;
+ }
